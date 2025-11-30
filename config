@@ -1,0 +1,41 @@
+{
+  "enabled": true,
+  "textColor": "text-foreground/75",
+  "linkColor": "text-primary hover:text-primary/70",
+  "borderColor": "border-border/40",
+  "icon": "ArrowRight",
+  "translations": {
+    "en": {
+      "enabled": true,
+      "text": "🎉 Special Offer: Get 50% off on all premium plans! Limited time only. Upgrade now and save big!",
+      "textMobile": "🎉 50% off premium plans! Limited time offer - upgrade now!",
+      "linkText": "Learn more →",
+      "linkTextMobile": "More →",
+      "linkUrl": "https://example.com/promo"
+    },
+    "fa": {
+      "enabled": true,
+      "text": "🎉 پیشنهاد ویژه: 50٪ تخفیف روی تمام پلن‌های پریمیوم! زمان محدود. همین الان ارتقا دهید و صرفه‌جویی کنید!",
+      "textMobile": "🎉 50٪ تخفیف پلن‌های پریمیوم! پیشنهاد محدود - همین الان ارتقا دهید!",
+      "linkText": "اطلاعات بیشتر →",
+      "linkTextMobile": "بیشتر →",
+      "linkUrl": "https://example.com/promo"
+    },
+    "ru": {
+      "enabled": true,
+      "text": "🎉 Специальное предложение: скидка 50% на все премиум-планы! Ограниченное время. Обновитесь сейчас и сэкономьте!",
+      "textMobile": "🎉 50% скидка на премиум-планы! Ограниченное предложение - обновитесь сейчас!",
+      "linkText": "Узнать больше →",
+      "linkTextMobile": "Больше →",
+      "linkUrl": "https://example.com/promo"
+    },
+    "zh": {
+      "enabled": true,
+      "text": "🎉 特别优惠：所有高级计划享受 50% 折扣！限时优惠。立即升级，节省更多！",
+      "textMobile": "🎉 高级计划 50% 折扣！限时优惠 - 立即升级！",
+      "linkText": "了解更多 →",
+      "linkTextMobile": "更多 →",
+      "linkUrl": "https://example.com/promo"
+    }
+  }
+}
