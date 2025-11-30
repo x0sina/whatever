@@ -8,7 +8,7 @@
       "linkText": "Learn more →",
       "linkTextMobile": "More →",
       "linkUrl": "https://example.com/promo",
-      "icon": "https://example.com/icon-en.png"
+      "icon": "https://raw.githubusercontent.com/PasarGuard/panel/main/dashboard/public/statics/favicon/logo-pwa.png"
     },
     "fa": {
       "enabled": true,
@@ -17,7 +17,7 @@
       "linkText": "اطلاعات بیشتر →",
       "linkTextMobile": "بیشتر →",
       "linkUrl": "https://example.com/promo",
-      "icon": "https://example.com/icon-fa.png"
+      "icon": "https://raw.githubusercontent.com/PasarGuard/panel/main/dashboard/public/statics/favicon/logo-pwa.png"
     },
     "ru": {
       "enabled": false,
