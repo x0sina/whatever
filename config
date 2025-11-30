@@ -3,7 +3,7 @@
   "textColor": "text-foreground/75",
   "linkColor": "text-primary hover:text-primary/70",
   "borderColor": "border-border/40",
-  "icon": "ArrowRight",
+  "icon": "https://raw.githubusercontent.com/PasarGuard/panel/main/dashboard/public/statics/favicon/logo-pwa.png",
   "translations": {
     "en": {
       "enabled": true,
